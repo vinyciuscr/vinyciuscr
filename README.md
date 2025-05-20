@@ -1,9 +1,5 @@
 Olá eu sou o Vini.
 ##
-
-- 🌱 Estudando C++ e HTML.
-- 🤔 Procurando ajuda com c++
-- 😄 ele/dele
  
 <div align="center">
   <a href="https://github.com/vinicyuscr">
